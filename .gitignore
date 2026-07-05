@@ -1,6 +1,0 @@
-*.env
-*.parquet
-*.csv
-.vscode
-
-__pycache__
